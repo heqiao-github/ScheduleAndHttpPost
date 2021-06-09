@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.example.common.config.CsConfig",
+      "name": "cs",
+      "type": "com.example.common.config.CsConfig"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.example.common.config.CsConfig",
+      "name": "cs.csid",
+      "type": "java.lang.String"
+    }
+  ]
+}
